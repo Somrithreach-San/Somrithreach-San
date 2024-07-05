@@ -11,4 +11,6 @@ Welcome to my GitHub profile! I'm a passionate software developer and currently 
 
     📱 To become a full-stack mobile developer.
 
-Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate.
+🚀 GitHub Stats
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions!
