@@ -4,8 +4,13 @@ Welcome to my GitHub profile! I'm a passionate software developer and currently 
 
 🌟 About Me
 
-    👨‍💻 Learning: Flutter, Laravel, and PostgreSQL to stay ahead in the market
+    👨‍💻 Learning: Flutter, Laravel, PostgreSQL and Flame Engine to stay ahead in the market
     📫 How to reach me: somrithreachsan@gmail.com
+    
+💻 Additional Skills
+
+    ⚡ C# Windows Forms: Building desktop applications.
+    🎮 C# Unity: Game development.
 
 🎯 Goal
 
