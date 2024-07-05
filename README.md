@@ -1,6 +1,7 @@
 Hello, I'm Somrithreach San aka Ritchie! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in building robust and scalable applications. Here's a little bit about me:
+Welcome to my GitHub profile! I'm passionate about software development and currently pursuing a Bachelor's degree in Software Engineering at a private university in Cambodia. Here's a bit more about me:
+
 🌟 About Me
 
     🌱 Learning: Flutter, Laravel, and PostgreSQL to stay ahead in the market
