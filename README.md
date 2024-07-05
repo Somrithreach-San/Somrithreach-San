@@ -1,4 +1,9 @@
- I’m currently learning **Unity and Kotlin**
+Hello, I'm Somrithreach San aka Ritchie! 👋
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a> </p>
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in building robust and scalable applications. Here's a little bit about me:
+🌟 About Me
+
+    🌱 Learning: Flutter, Laravel, and PostgreSQL to stay ahead in the market
+    📫 How to reach me: somrithreachsan@gmail.com
+
+Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate.
