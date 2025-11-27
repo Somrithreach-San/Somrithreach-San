@@ -1,4 +1,4 @@
-Hey there, I'm Ritchie! 👋
+Hey there, I'm San Somrithreach! 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer and currently pursuing my Bachelor's degree in Software Engineering at a private university in Southeast Asia. Here's a bit more about me:
 
